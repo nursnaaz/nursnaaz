@@ -41,6 +41,7 @@ Outside of AWS, I teach GenAI to working professionals — from complete beginne
 - **10+ years** in AI/ML across NLP, deep learning, and production deployments
 - **1,000+ professionals mentored**, 29,000+ LinkedIn followers
 - **Emerging Global Leader in GenAI** — Internet 2.0 Conference Award (2024)
+- **Times Power Icon** — Times Power Icon Award (2024)
 - **IIM Lucknow** · Speaker at global AI conferences
 
 ---
